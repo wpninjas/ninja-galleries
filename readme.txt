@@ -4,7 +4,7 @@ Donate link: http://wpninjas.net
 Tags: gallery, porfolio, images, galleries, image
 Requires at least: 3.0
 Tested up to: 3.1
-Stable tag: 1.0.9
+Stable tag: 1.0.10
 
 Ninja Galleries lets you easily create image galleries by tagging your images and then assigning those tags to a gallery page.
 
@@ -70,8 +70,8 @@ To get the gallery images to look the way you want, style <dl><dt> and <dd> elem
 
 == Changelog ==
 
-= 1.0.8 =
-Test
+= 1.0.10 =
+Testing git to WordPress.org SVN.
 
 = 1.0.4 =
 Fixed a bug caused by not having post thumbnails enabled. Please note that you MUST have post thumbnails enabled in your theme in order for Ninja Galleries to work.
