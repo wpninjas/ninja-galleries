@@ -3,7 +3,7 @@
 Plugin Name: Ninja Galleries
 Plugin URI: http://wpninjas.net/plugins/ninja-galleries/
 Description: Ninja Galleries lets you easily create image galleries by tagging your images and then assigning those tags to a gallery page.
-Version: 1.0.23
+Version: 1.0.24
 Author: Kevin Stover
 Author URI: http://www.wpninjas.net
 */
